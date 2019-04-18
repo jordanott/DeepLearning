@@ -1,6 +1,8 @@
 # CPSC 370: Deep Learning
 
-This course is offered at Chapman University in the Fall of 2019.
+**School:** Chapman University  
+**Term:** Fall 2019  
+**Website:** [Class homepage](https://sites.google.com/view/jordan-ott/home/teaching/cpsc-370-fall-2019)  
 
 # First day checklist
 - [ ] Read the [prerequisites notebook](https://github.com/jordanott/DeepLearning/blob/master/Notebooks/00%20Prerequisites.ipynb)
