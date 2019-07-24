@@ -1,8 +1,8 @@
-import sys
+from platform import python_version
 
 errors = 0
 
-if sys.version_info[0] < 3:
+if python_version() < '3.6':
     print("- Error: Must be using Python 3.6"); errors += 1
 else:
     print('+ Python 3')
